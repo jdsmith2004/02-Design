@@ -1,0 +1,15 @@
+C:\data\BYUI Classes\CSE210 programming with classes\02 Assignments\02 Design\bin\Debug\net6.0\02 Design.exe
+C:\data\BYUI Classes\CSE210 programming with classes\02 Assignments\02 Design\bin\Debug\net6.0\02 Design.deps.json
+C:\data\BYUI Classes\CSE210 programming with classes\02 Assignments\02 Design\bin\Debug\net6.0\02 Design.runtimeconfig.json
+C:\data\BYUI Classes\CSE210 programming with classes\02 Assignments\02 Design\bin\Debug\net6.0\02 Design.dll
+C:\data\BYUI Classes\CSE210 programming with classes\02 Assignments\02 Design\bin\Debug\net6.0\ref\02 Design.dll
+C:\data\BYUI Classes\CSE210 programming with classes\02 Assignments\02 Design\bin\Debug\net6.0\02 Design.pdb
+C:\data\BYUI Classes\CSE210 programming with classes\02 Assignments\02 Design\obj\Debug\net6.0\02 Design.csproj.AssemblyReference.cache
+C:\data\BYUI Classes\CSE210 programming with classes\02 Assignments\02 Design\obj\Debug\net6.0\02 Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\BYUI Classes\CSE210 programming with classes\02 Assignments\02 Design\obj\Debug\net6.0\02 Design.AssemblyInfoInputs.cache
+C:\data\BYUI Classes\CSE210 programming with classes\02 Assignments\02 Design\obj\Debug\net6.0\02 Design.AssemblyInfo.cs
+C:\data\BYUI Classes\CSE210 programming with classes\02 Assignments\02 Design\obj\Debug\net6.0\02 Design.csproj.CoreCompileInputs.cache
+C:\data\BYUI Classes\CSE210 programming with classes\02 Assignments\02 Design\obj\Debug\net6.0\02 Design.dll
+C:\data\BYUI Classes\CSE210 programming with classes\02 Assignments\02 Design\obj\Debug\net6.0\ref\02 Design.dll
+C:\data\BYUI Classes\CSE210 programming with classes\02 Assignments\02 Design\obj\Debug\net6.0\02 Design.pdb
+C:\data\BYUI Classes\CSE210 programming with classes\02 Assignments\02 Design\obj\Debug\net6.0\02 Design.genruntimeconfig.cache
